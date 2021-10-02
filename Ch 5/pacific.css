@@ -1,0 +1,48 @@
+body {color:#666666; background-color:#FFFFFF;
+    font-family: sans-serif, Arial, helvetica;}
+
+
+ul {list-style-image: url(marker.gif);  }
+
+header {color:#FFFFFF; background-color:#002171;
+    background-image: url(sunset.jpg) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    line-height: 400%;
+    text-indent: 1em;}
+
+img { background-image: url(coast.jpg);
+    background-repeat: no-repeat;
+    width: 100%;}
+
+img { background-image: url(yurt.jpg) ;
+    background-repeat: no-repeat;
+    width: 100%;}
+
+img {background-image: url(trail.jpg);
+    background-repeat: no-repeat;
+    width: 100%;}
+
+nav { color: skyblue; background-color: #BBDEFB;
+    font-weight: bold;}
+nav a { text-decoration: none;}
+
+h1 {margin-bottom: 0;
+    font-family: serif, Georgia,Times New Roman;}
+
+h2 {color: #1976D2;
+    font-family: serif, Georgia, Times New Roman;}
+
+h3 { color: #000033;
+    font-family: serif, Georgia, Times New Roman;}
+
+dt {color: #002171}
+
+.resort {color: #1976D2;
+    font-weight: bold;}
+
+footer {font-size: 75%;
+    font-style: italic;
+    font-family: serif, Georgia, Times New Roman;
+    text-align: center;}
+#contact {font-size: 90%;}

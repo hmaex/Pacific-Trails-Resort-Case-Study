@@ -1,0 +1,124 @@
+*{box-sizing: border-box;}
+
+body {color:#666666; background-color:#EAEAEA;
+    font-family: sans-serif, Arial, helvetica;}
+
+#wrapper {background-color: #90c7e3;
+    background-position: center;
+    width: 80%;
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow:  3px 3px 3px #333333 ;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000033;
+    background-image: linear-gradient(to bottom, #FFFFFF, #90c7e3);}
+
+
+header {color:#FFFFFF; background-color:#002171;
+    height: 120px;
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 3em;}
+
+header a{text-decoration: none;}
+
+header a:link{color: #FFFFFF;}
+
+header a:visited{color: #FFFFFF;}
+
+header a:hover{color: #90c7e3;}
+
+
+img { background-image: url(coast.jpg);
+    width: 100%;}
+
+#homehero {background-image: url(coast.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-left: 190px;}
+
+img { background-image: url(yurt.jpg) ;
+    background-repeat: no-repeat;
+    width: 100%;}
+
+#yurthero { background-image:url(yurt.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-left: 190px;}
+
+
+img {background-image: url(trail.jpg);
+    background-repeat: no-repeat;
+    width: 100%;}
+
+#trailhero { background-image: url(trail.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-left: 190px;}
+
+nav {font-weight: bold;
+    padding: 1.5em;
+    font-size: 120%;
+    float: left;
+    width: 160px;}
+
+nav a { text-decoration: none;}
+
+nav a:link{color: #5C7FA3;}
+
+nav a:visited{color: #344873;}
+
+nav a:hover{color: #A52A2A;}
+
+nav ul{list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    font-size: 1.2em;}
+
+main {padding: 1px 20px 20px ;
+    display: block;
+    background-color: #FFFFFF;
+    margin-left: 190px;
+    padding-left: 30px;
+    overflow: auto;}
+
+main ul{list-style-image: url("marker.gif")}
+
+
+
+h1 {margin-bottom: 0;
+    font-family: serif, Georgia,Times New Roman;
+    margin-top: 0;
+    font-size: 3em;
+    letter-spacing: 0.25em;}
+
+h2 {color: #1976D2;
+    font-family: serif, Georgia, Times New Roman;
+    text-shadow: 1px 1px 1px #cccccc;}
+
+h3 { color: #000033;
+    font-family: serif, Georgia, Times New Roman;}
+
+dt {color: #002171}
+
+.resort {color: #1976D2;
+    font-weight: bold;}
+
+footer {font-size: 75%;
+    font-style: italic;
+    font-family: serif, Georgia, Times New Roman;
+    text-align: center;
+    padding: 2em;
+    margin-left: 190px;
+    background-color: #FFFFFF;}
+
+#contact {font-size: 90%;}
+
+section {float: left;
+    width: 33%;
+    padding-left: 2em;
+    padding-right: 2em;}
